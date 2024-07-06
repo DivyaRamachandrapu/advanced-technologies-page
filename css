@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.game-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 20vh;
+
+
+}
+
+.main-heading {
+    color: #5752ab;
+    font-size: 23px;
+    font-family: times;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 15px;
+    text-align: left;
+
+}
+
+.paragraph {
+    color: #5c546e;
+    font-size: 15px;
+    font-style: normal;
+
+    font-family: Roboto;
+    font-weight: bold;
+    line-height: 8px;
+    text-align: left;
+    padding-left: 16px;
+}
+
+.button {
+    color: #171f46;
+    background-color: #ffffff;
+    font-size: 15px;
+    font-family: roboto;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    border-style: solid;
+    height: 35px;
+    width: 110px;
+}
+
+.button-1 {
+    color: #ffffff;
+    background-color: #5752ab;
+    font-size: 15px;
+    font-family: roboto;
+    border-radius: 7px;
+    border-width: 0px;
+    height: 35px;
+    width: 110px;
+    margin: 10px;
+
+}
